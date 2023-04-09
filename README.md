@@ -19,7 +19,3 @@
 
 
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=RP502&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
-
-
